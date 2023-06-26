@@ -1,3 +1,5 @@
+package Homework9;
+
 public class Square {
 
     private double a;
